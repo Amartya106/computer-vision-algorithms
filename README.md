@@ -3,7 +3,8 @@
 Learning CV algorithms and applications using Python and OpenCV.
 
 ## Topics
-- Hough transform
+- Hough Transform
+- Image Histograms
 
 
 ## Tech Stack
