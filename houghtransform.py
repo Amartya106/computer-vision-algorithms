@@ -66,6 +66,7 @@ def HoughTransform():
     plt.imshow(imgcolor)
 
     plt.show()
+    cv2.imwrite("results/HoughTransformResult.png", cv2.cvtColor(imgcolor, cv2.COLOR_RGB2BGR))
         
 
 if __name__ == '__main__':
