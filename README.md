@@ -7,6 +7,7 @@ Learning CV algorithms and applications using Python and OpenCV.
 - Image Histograms
 - Histogram Equalization and CLAHE
 - Image Thresholding
+- Adaptive Thresholding
 
 
 ## Tech Stack
